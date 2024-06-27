@@ -4,9 +4,9 @@
 Проект 1-го спринта. <a href="https://docs.google.com/document/d/1EtPC2RUB14auBbJV_FjEkfxKpYBZi4Lt/edit?usp=sharing&ouid=106897186254420061142&rtpof=true&sd=true">_Требования версия 1.0_</a>
 
 * Провёл тест-анализ требований. 
-* Выделил <a href="https://docs.google.com/spreadsheets/d/1lRK5WRt-AQaBZz2rD6lTCeoUTVby8Y2j/edit?usp=sharing&ouid=106897186254420061142&rtpof=true&sd=true">КЭ и ГЗ</a> для полей ввода.
-* Написал <a href="https://docs.google.com/spreadsheets/d/1GVOjwmZA5ZBNsUdnW1J5SNs7H319c2Q3/edit?usp=sharing&ouid=106897186254420061142&rtpof=true&sd=true">тест-кейсы</a> на проверку валидации полей. 
-* Завёл <a href="https://docs.google.com/spreadsheets/d/1BQxhbDchrjxLj49TdKBIP8p7nvMCRaw4/edit?usp=sharing&ouid=106897186254420061142&rtpof=true&sd=true">баг-репорты</a> по найденным багам.
+* Выделил <a href="https://docs.google.com/spreadsheets/d/1lRK5WRt-AQaBZz2rD6lTCeoUTVby8Y2j/edit?usp=sharing&ouid=106897186254420061142&rtpof=true&sd=true">_КЭ и ГЗ_</a> для полей ввода.
+* Написал <a href="https://docs.google.com/spreadsheets/d/1GVOjwmZA5ZBNsUdnW1J5SNs7H319c2Q3/edit?usp=sharing&ouid=106897186254420061142&rtpof=true&sd=true">_тест-кейсы_</a> на проверку валидации полей. 
+* Завёл <a href="https://docs.google.com/spreadsheets/d/1BQxhbDchrjxLj49TdKBIP8p7nvMCRaw4/edit?usp=sharing&ouid=106897186254420061142&rtpof=true&sd=true">_баг-репорты_</a> по найденным багам.
 
 Проект 2-го спринта. <a href="https://praktikum.notion.site/74dd6e68fda34387ac4d43137a601c6e">_Требования версия 2.0_</a>
 * Составил <a href="https://docs.google.com/spreadsheets/d/1g0i6Rpz2483XlVLhQcXnC6UO2_p4Up5R/edit?usp=drive_link&ouid=106897186254420061142&rtpof=true&sd=true">_чек-лист на вёрстку_</a> полей для формы бронирования, элементов на навигационной карте и действия с ними.
